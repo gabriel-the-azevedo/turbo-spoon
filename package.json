@@ -1,0 +1,23 @@
+{
+  "name": "turbo-spoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-the-azevedo/turbo-spoon.git"
+  },
+  "author": "Gabriel de Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-the-azevedo/turbo-spoon/issues"
+  },
+  "homepage": "https://github.com/gabriel-the-azevedo/turbo-spoon#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
